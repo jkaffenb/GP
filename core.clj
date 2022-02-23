@@ -1,5 +1,5 @@
-(ns push307.core
-  (:gen-class))
+;; (ns push307.core
+;;   (:gen-class))
 
 ;; (comment
 ;;   (NAME: Jack Kaffenbarger    
